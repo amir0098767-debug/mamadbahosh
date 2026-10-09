@@ -1,0 +1,15 @@
+{
+  "name": "ممد باهوش",
+  "short_name": "ممد",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1f",
+  "theme_color": "#0a0e1f",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
